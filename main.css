@@ -1,0 +1,38 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    color: blue;
+}
+
+.ask h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.in {
+
+    display: flex;
+    justify-content: center;
+}
+
+.sub {
+
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: orange;
+    border: black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+#youdub {
+    text-align: center;
+}
